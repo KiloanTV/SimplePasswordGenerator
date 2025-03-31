@@ -11,12 +11,12 @@ Dieses Python-Programm generiert eine vorgegebene Anzahl von zufälligen Passwö
 
 1. Klone das Repository:
     ```bash
-    git clone https://github.com/KiloanTV/PasswordHasher2.0.git
+    git clone [https://github.com/KiloanTV/PasswordHasher2.0.git](https://github.com/KiloanTV/SimplePasswordGenerator.git)
     ```
 
 2. Wechsel in das Projektverzeichnis:
     ```bash
-    cd PasswortHasher2.0
+    cd SimplePasswordGenerator
     ```
 
 ## Nutzung
